@@ -136,8 +136,7 @@ header ul li {
   box-shadow: var(--box-shadow);
 }
 .banner img {
-  width: 80%;
-  height: 80%;
+  width: 100%;
 }
 header .navDiv,
 header .nav label,

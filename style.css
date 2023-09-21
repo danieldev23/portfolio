@@ -249,7 +249,7 @@ header input {
     font-size: 2.5em;
   }
   .intro {
-    font-family: ui-monospace;
+    
   }
   .banner .avatar {
     grid-row-start: 1;

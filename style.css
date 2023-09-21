@@ -243,7 +243,7 @@ header input {
     grid-template-columns: 1fr;
   }
   .banner .content h1 {
-    font-size: 1.2em;
+    font-size: 2.5em;
   }
   .banner .avatar {
     grid-row-start: 1;
